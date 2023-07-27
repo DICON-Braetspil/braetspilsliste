@@ -23,7 +23,7 @@
 |✅|[Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)|1|
 |✅⭐|Catan: Grundspil(DK)|1|
 |✅⭐|Catan: Byer & Riddere(DK,SE)|1|
-|⁉️✔️|[Settlers fra Catan: Søfarer (dansk)](https://boardgamegeek.com/boardgame/13/catan)|1|
+|⁉️|[Settlers fra Catan: Søfarer (dansk)](https://boardgamegeek.com/boardgame/13/catan)|1|
 |✅|Pandemic|1|
 |✅|[Cluedo](https://boardgamegeek.com/boardgame/130592/clue)|1|
 |✅|Pizza: Balancespil(DK)|1|
@@ -44,16 +44,20 @@
 
 
 ✅ Works as intended; Rules may or may not be present. Check this page.
+
 ⁉️ Is missing one or more pieces, may or may not be playable (Check for ✔️)
+
 ❓ Has not been checked and is available to try for the adventerous board gamer
+
 ⭐ Special games which are usually locked away. Only available upon request or for bigger events
+
 👴 Older game, which may or may not benefit from being retired to spare parts for a newer version
 
 # Mangler / Missing parts (In Danish as it is more internal than external, and only available for transparency reasons)
 |Spilnavn|Mangler|Råd|
 |-------:|-------|---|
 | Family Business | 1 new yorker mob kort|Tag et proxy kort|
-| Catan Søfarer | 5 talbrikker, 2 catan-chips, 1 hav-felt | Umiddelbart spilbart |
+| Catan Søfarer | 5 talbrikker, 2 catan-chips, 1 hav-felt ||
 | Bang! | 6 spillekort, regler | Spilbart. Søg på nettet efter regler |
 | Cluedo | Flere afkrydsningsblanketter, lettere skadet boks | Spilbart |
 | 5 games | Alle plader og dele undtal til ludo/backgammon, 1 rød ludo-brik, 1 sort dam-brik | Brug sort træ-brik til ludo |
