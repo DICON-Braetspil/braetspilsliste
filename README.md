@@ -1,54 +1,58 @@
-# Brætspilsliste
+# Brætspilsliste / Board Game list
 
-|Status & antal|Spilnavn|
-|-------------:|--------|
-|Spilbart, 1| [Battle Cry](https://boardgamegeek.com/boardgame/551/battle-cry)|
-|Spilbart, 1| [Klods Major](https://boardgamegeek.com/boardgame/20153/klumpeduns)|
-|Til reparation, 1 (+ekstra dele)| [Scrabble](https://boardgamegeek.com/boardgame/320/scrabble)|
-|Spilbart**, 1 | [Settlers fra Catan: Søfarer (dansk)](https://boardgamegeek.com/boardgame/13/catan)|
-|Ukendt, 1| [Babel](https://boardgamegeek.com/boardgame/986/babel)|
-|Brugbart, 1 (+ekstra dele)| [Hint](https://boardgamegeek.com/boardgame/165628/hint)|
-|Spilbart, 1| [Munchkin](https://boardgamegeek.com/boardgame/1927/munchkin)|
-|Ukendt, 1| [MidEvil](https://boardgamegeek.com/boardgame/15738/midevil)|
-|Spilbart**, 1 | [Family Business](https://boardgamegeek.com/boardgame/170/family-business)|
-|Mangler, 1| [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)|
-|Mangler, 1| [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)|
-|Spilbart, 1| [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic)|
-|Spilbart**, 1| [Cluedo](https://boardgamegeek.com/boardgame/130592/clue)|
-|Spilbart**, 1| [BANG! Dice Game](https://boardgamegeek.com/boardgame/143741/bang-dice-game)|
-|Mangler, 1| [Den Lille Ordquiz](https://boardgamegeek.com/boardgame/287305/den-lille-ordquiz)|
-|Ukendt**, 1| [221B bakerstreet](https://boardgamegeek.com/boardgame/1275/221b-baker-street-master-detective-game)|
-|Spilbart**, 1 | 5 Games |
-|Spilbart**, 1 | [Bang!](https://boardgamegeek.com/boardgame/3955/bang) |
-|Ukendt, 1| Ludo |
-|Spilbart, 1| Cards Against Humanity |
-|Spilbart, 1| RKG Hearthstone (DIKU spil) |
-|Spilbart**, 1| Dominoes |
-|Ukendt, 1| Rummy |
-| Ukendt**, 1 | Tyrus |
-| Spilbart**, 1 | The Yeti Slalom |
-| Ukendt, 1 | Bingo |
-| Spilbart**, 2 | Poker |
-| Spilbart, 1 | UNO |
-| Spilbart**, 1 | 4 på Stribe |
-
-
-*Kræver lettere reparation såsom digitalisering af regler el. skadet boks. 
-
-Mangler: Dette spil er blevet væk, men vi ved at vi har det. Skriv venligst til DICONs bestyrelse hvis du gerne vil låne spil hjem. 
-
-Ukendt: Spillet er ikke blevet tjekket, men står i skabet klar til den eventyrlige brætspiller.
-
-**Se Mangler. 
-
-(+ekstra dele): Dette betyder at DICON har ekstradele til spillet, som kan bruges til reparation af spillet. Kontakt DICONs bestyrelse hvis der mangler brikker til et spil.
+|Status|Name|Amount|
+|-------:|-----:|----|
+|✅, ⁉️|[Bang!](https://boardgamegeek.com/boardgame/3955/bang)|2|
+|✅|[BANG! Dice Game](https://boardgamegeek.com/boardgame/143741/bang-dice-game)|1|
+|✅⭐|Terraforming Mars|1|
+|✅|[Battle Cry](https://boardgamegeek.com/boardgame/551/battle-cry)|1|
+|✅|[Klods Major](https://boardgamegeek.com/boardgame/20153/klumpeduns)|1|
+|⁉️|Angry Birds: On thin ice|1|
+|⁉️|Burrito!|1|
+|✅|Cards Against Humanity: the bigger, blacker box|1|
+|✅|Cards Against Humanity: Nerd Bundle|1|
+|✅|Ultimate Werewolf(Bezier Games)|1|
+|✅,⁉️|Hint|2|
+|✅⭐|Carcasonne: The big Box|1|
+|✅|Exploding Kittens|1|
+|✅⭐|Diplomacy|1|
+|✅|[MidEvil](https://boardgamegeek.com/boardgame/15738/midevil)|1|
+|✅|Board Games: 3 in 1 (Backgammon, chess, Draughts)|3|
+|✅👴|[Munchkin](https://boardgamegeek.com/boardgame/1927/munchkin)|1|
+|✅|Domino|1|
+|✅|[Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)|1|
+|✅⭐|Catan: Grundspil(DK)|1|
+|✅⭐|Catan: Byer & Riddere(DK,SE)|1|
+|⁉️✔️|[Settlers fra Catan: Søfarer (dansk)](https://boardgamegeek.com/boardgame/13/catan)|1|
+|✅|Pandemic|1|
+|✅|[Cluedo](https://boardgamegeek.com/boardgame/130592/clue)|1|
+|✅|Pizza: Balancespil(DK)|1|
+|✅|Bingo|1|
+|❓|[221B bakerstreet](https://boardgamegeek.com/boardgame/1275/221b-baker-street-master-detective-game)|1|
+|✅|[Babel](https://boardgamegeek.com/boardgame/986/babel)|1|
+|✅|Rummy|1|
+|✅|The Yeti Slalom|1|
+|⁉️✔️|[Family Business](https://boardgamegeek.com/boardgame/170/family-business)|1|
+|✅|Abenteuer Menschheit (Human Adventure)|1|
+|⁉️|Tyros|1|
+|❓|Poker|2|
+|⁉️✔️|5 Classic Family Games|1|
+|⁉️✔️|4 på Stribe|1|
+|⁉️✔️|Scrabble|1|
 
 
-# Mangler
+
+
+✅ Works as intended; Rules may or may not be present. Check this page.
+⁉️ Is missing one or more pieces, may or may not be playable (Check for ✔️)
+❓ Has not been checked and is available to try for the adventerous board gamer
+⭐ Special games which are usually locked away. Only available upon request or for bigger events
+👴 Older game, which may or may not benefit from being retired to spare parts for a newer version
+
+# Mangler / Missing parts (In Danish as it is more internal than external, and only available for transparency reasons)
 |Spilnavn|Mangler|Råd|
 |-------:|-------|---|
 | Family Business | 1 new yorker mob kort|Tag et proxy kort|
-| Klods Major | 1 blå brik | Spilbart |
 | Catan Søfarer | 5 talbrikker, 2 catan-chips, 1 hav-felt | Umiddelbart spilbart |
 | Bang! | 6 spillekort, regler | Spilbart. Søg på nettet efter regler |
 | Cluedo | Flere afkrydsningsblanketter, lettere skadet boks | Spilbart |
