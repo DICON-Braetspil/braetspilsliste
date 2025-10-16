@@ -1,5 +1,5 @@
-# Strategy Games
-|Status|Name|Amount| Video |
+# CoOp Games
+|Status|Name|Player Count| Video |
 |-------:|-----:|----:|-----| 
 |✅|[Betrayal at the House on the Hill](https://boardgamegeek.com/boardgame/10547/betrayal-at-house-on-the-hill)|3-6| [How to play](https://youtu.be/V3UmdlVYWHc?si=AIFhkw0DMOOyhv25) |
 |✅|[Dorf Romantic](https://boardgamegeek.com/boardgame/370591/dorfromantik-the-board-game)|1-6| [How to play](https://youtu.be/bemz_fhAhtE?si=Fht0zzoHHW2y0WPy) |
@@ -19,3 +19,4 @@
 ⭐ Special games which are usually locked away. Only available upon request or for bigger events
 
 👴 Older game, which may or may not benefit from being retired to spare parts for a newer version
+
