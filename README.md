@@ -1,44 +1,44 @@
 # Brætspilsliste / Board Game list
 
-|Status|Name|Amount|
-|-------:|-----:|----|
-|✅, ⁉️|[Bang!](https://boardgamegeek.com/boardgame/3955/bang)|2|
-|✅|[BANG! Dice Game](https://boardgamegeek.com/boardgame/143741/bang-dice-game)|1|
-|✅⭐|Terraforming Mars|1|
-|✅|[Battle Cry](https://boardgamegeek.com/boardgame/551/battle-cry)|1|
-|✅|[Klods Major](https://boardgamegeek.com/boardgame/20153/klumpeduns)|1|
-|⁉️|Angry Birds: On thin ice|1|
-|⁉️|Burrito!|1|
-|✅|Cards Against Humanity: the bigger, blacker box|1|
-|✅|Cards Against Humanity: Nerd Bundle|1|
-|✅|Ultimate Werewolf(Bezier Games)|1|
-|✅,⁉️|Hint|2|
-|✅⭐|Carcasonne: The big Box|1|
-|✅|Exploding Kittens|1|
-|✅⭐|Diplomacy|1|
-|✅|[MidEvil](https://boardgamegeek.com/boardgame/15738/midevil)|1|
-|✅|Board Games: 3 in 1 (Backgammon, chess, Draughts)|3|
-|✅👴|[Munchkin](https://boardgamegeek.com/boardgame/1927/munchkin)|1|
-|✅|Domino|1|
-|✅|[Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)|1|
-|✅⭐|Catan: Grundspil(DK)|1|
-|✅⭐|Catan: Byer & Riddere(DK,SE)|1|
-|⁉️|[Settlers fra Catan: Søfarer (dansk)](https://boardgamegeek.com/boardgame/13/catan)|1|
-|✅|Pandemic|1|
-|✅|[Cluedo](https://boardgamegeek.com/boardgame/130592/clue)|1|
-|✅|Pizza: Balancespil(DK)|1|
-|✅|Bingo|1|
-|❓|[221B bakerstreet](https://boardgamegeek.com/boardgame/1275/221b-baker-street-master-detective-game)|1|
-|✅|[Babel](https://boardgamegeek.com/boardgame/986/babel)|1|
-|✅|Rummy|1|
-|✅|The Yeti Slalom|1|
-|⁉️✔️|[Family Business](https://boardgamegeek.com/boardgame/170/family-business)|1|
-|✅|Abenteuer Menschheit (Human Adventure)|1|
-|⁉️|Tyros|1|
-|❓|Poker|2|
-|⁉️✔️|5 Classic Family Games|1|
-|⁉️✔️|4 på Stribe|1|
-|⁉️✔️|Scrabble|1|
+|Status|Name|Amount| Video |
+|-------:|-----:|----:|-----| 
+|✅, ⁉️|[Bang!](https://boardgamegeek.com/boardgame/3955/bang)|2| place holder |place holder |
+|✅|[BANG! Dice Game](https://boardgamegeek.com/boardgame/143741/bang-dice-game)|1place holder ||
+|✅⭐|Terraforming Mars|1|place holder |
+|✅|[Battle Cry](https://boardgamegeek.com/boardgame/551/battle-cry)|1|place holder |
+|✅|[Klods Major](https://boardgamegeek.com/boardgame/20153/klumpeduns)|1|place holder |
+|⁉️|Angry Birds: On thin ice|1|place holder |
+|⁉️|Burrito!|1|place holder |
+|✅|Cards Against Humanity: the bigger, blacker box|1|place holder |
+|✅|Cards Against Humanity: Nerd Bundle|1|place holder |
+|✅|Ultimate Werewolf(Bezier Games)|1|place holder |
+|✅,⁉️|Hint|2|place holder |
+|✅⭐|Carcasonne: The big Box|1|place holder |
+|✅|Exploding Kittens|1|place holder |
+|✅⭐|Diplomacy|1|place holder |
+|✅|[MidEvil](https://boardgamegeek.com/boardgame/15738/midevil)|1|place holder |
+|✅|Board Games: 3 in 1 (Backgammon, chess, Draughts)|3|place holder |
+|✅👴|[Munchkin](https://boardgamegeek.com/boardgame/1927/munchkin)|1|place holder |
+|✅|Domino|1|place holder |
+|✅|[Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)|1|place holder |
+|✅⭐|Catan: Grundspil(DK)|1|place holder |
+|✅⭐|Catan: Byer & Riddere(DK,SE)|1
+|⁉️|[Settlers fra Catan: Søfarer (dansk)](https://boardgamegeek.com/boardgame/13/catan)|1||place holder |
+|✅|Pandemic|1| place holder |
+|✅|[Cluedo](https://boardgamegeek.com/boardgame/130592/clue)|1| place holder |
+|✅|Pizza: Balancespil(DK)|1| place holder |
+|✅|Bingo|1|place holder |
+|❓|[221B bakerstreet](https://boardgamegeek.com/boardgame/1275/221b-baker-street-master-detective-game)|1|place holder |
+|✅|[Babel](https://boardgamegeek.com/boardgame/986/babel)|1|place holder |
+|✅|Rummy|1|place holder |
+|✅|The Yeti Slalom|1|place holder |
+|⁉️✔️|[Family Business](https://boardgamegeek.com/boardgame/170/family-business)|1|place holder |
+|✅|Abenteuer Menschheit (Human Adventure)|1|place holder |
+|⁉️|Tyros|1|place holder |
+|❓|Poker|2|place holder |
+|⁉️✔️|5 Classic Family Games|1|place holder |
+|⁉️✔️|4 på Stribe|1|place holder |
+|⁉️✔️|Scrabble|1|place holder |
 
 
 
