@@ -10,7 +10,7 @@
 
 
 
-✅ Works as intended; Rules may or may not be present. Check this page.
+✅ Works as intended
 
 ⁉️ Is missing one or more pieces, may or may not be playable (Check for ✔️)
 
@@ -19,4 +19,5 @@
 ⭐ Special games which are usually locked away. Only available upon request or for bigger events
 
 👴 Older game, which may or may not benefit from being retired to spare parts for a newer version
+
 
