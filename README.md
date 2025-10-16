@@ -56,12 +56,12 @@
 # Mangler / Missing parts (In Danish as it is more internal than external, and only available for transparency reasons)
 |Spilnavn|Mangler|Råd|
 |-------:|-------|---|
-| Family Business | 1 new yorker mob kort|Tag et proxy kort|
-| Catan Søfarer | 5 talbrikker, 2 catan-chips, 1 hav-felt ||
-| Bang! | 6 spillekort, regler | Spilbart. Søg på nettet efter regler |
-| Cluedo | Flere afkrydsningsblanketter, lettere skadet boks | Spilbart |
+| Family Business | 1 new yorker mob kort|Use a proxy card|
+| Catan Søfarer | 5 number tokens, 2 catan-chips, 1 ocean-tile ||
+| Bang! | 6 playing cards, rules | Playable. Find rules online |
+| Cluedo | missing clue templates, box is slightly damaged | playable |
 | 5 games | Alle plader og dele undtal til ludo/backgammon, 1 rød ludo-brik, 1 sort dam-brik | Brug sort træ-brik til ludo |
-| Dominoes | 1 brik | Spilbart |
+| Dominoes | 1 tile | Spilbart |
 | Tyrus | 1 sort skibbrik, 1 rød city marker, 3 orange tokens, 1 lilla token, ingen regler | Umiddelbart ikke spilbart |
 | The Yeti Slalom | Mangler terning og regler | Umiddelbart spilbart med en ekstra terning |
 | 221B Baker Street | 6 clue kort, 6 scotland yard kort | Umiddelbart ikke spilbart |
