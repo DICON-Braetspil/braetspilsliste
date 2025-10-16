@@ -3,7 +3,7 @@
 |Status|Name|Amount| Video |
 |-------:|-----:|----:|-----| 
 |✅, ⁉️|[Bang!](https://boardgamegeek.com/boardgame/3955/bang)|2| place holder |place holder |
-|✅|[BANG! Dice Game](https://boardgamegeek.com/boardgame/143741/bang-dice-game)|1place holder ||
+|✅|[BANG! Dice Game](https://boardgamegeek.com/boardgame/143741/bang-dice-game)|1 |place holder|
 |✅⭐|Terraforming Mars|1|place holder |
 |✅|[Battle Cry](https://boardgamegeek.com/boardgame/551/battle-cry)|1|place holder |
 |✅|[Klods Major](https://boardgamegeek.com/boardgame/20153/klumpeduns)|1|place holder |
