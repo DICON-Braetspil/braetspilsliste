@@ -2,7 +2,7 @@
 
 |Status|Name|Player count| Video |
 |-------:|-----:|----:|-----| 
-|❓|[221B bakerstreet](https://boardgamegeek.com/boardgame/1275/221b-baker-street-master-detective-game)|2-6|[How to play](https://www.youtube.com/watch?v=oQrmKRfKb3c)|
+|✅|[221B bakerstreet](https://boardgamegeek.com/boardgame/1275/221b-baker-street-master-detective-game)|2-6|[How to play](https://www.youtube.com/watch?v=oQrmKRfKb3c)|
 |✅, ⁉️|[Bang!](https://boardgamegeek.com/boardgame/3955/bang), no english rules|3-8| [How to play](https://www.youtube.com/watch?v=dcanu6cwfxc) |
 |✅|[BANG! Dice Game](https://boardgamegeek.com/boardgame/143741/bang-dice-game), rules only in Italian|4-7|[How to play](https://www.youtube.com/watch?v=W4jpm1ab2CM)|
 |✅|[Cluedo](https://boardgamegeek.com/boardgame/130592/clue)|2-6| [How to play](https://www.youtube.com/watch?v=VoTJU3YU_Aw) |
